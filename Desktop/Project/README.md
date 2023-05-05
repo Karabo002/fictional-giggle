@@ -26,12 +26,17 @@ If you're interested in trying out this project, this section will provide instr
 
 ## Usage
 This section will explain how to use the project once it's installed. I'll walk you through the different features and functionalities of the project.
+<img width="384" alt="Screenshot 2023-04-27 at 11 02 51" src="https://user-images.githubusercontent.com/122967373/236453220-c83e45b2-e16a-4583-9267-0b8b19864bba.png">
+
+<img width="422" alt="Screenshot 2023-04-27 at 11 07 05" src="https://user-images.githubusercontent.com/122967373/236453309-c24ae687-fb4f-4136-9a56-76c68f51fa26.png">
 
 ## Contributing
 If you're interested in contributing to this project, this section will provide some guidelines on how to get started.
 
-## License
-Finally, this section will provide information about the license under which this project is released.
+## Author 
+Karabo Nkile 
+
+URL[file:///Users/karabonkile/Desktop/githubs/online.html]
 
 Thanks for checking out my project! If you have any questions, feel free to reach out to me.
 # scaling
